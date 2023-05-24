@@ -1,0 +1,51 @@
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\Repte DirectoryFilesForEver\DirectoryFilesForEver\bin\Debug\DirectoryFilesForEver.exe.config
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\Repte DirectoryFilesForEver\DirectoryFilesForEver\bin\Debug\DirectoryFilesForEver.exe
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\Repte DirectoryFilesForEver\DirectoryFilesForEver\bin\Debug\DirectoryFilesForEver.pdb
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\Repte DirectoryFilesForEver\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\Repte DirectoryFilesForEver\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.SuggestedBindingRedirects.cache
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\Repte DirectoryFilesForEver\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.Form1.resources
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\Repte DirectoryFilesForEver\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.Properties.Resources.resources
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\Repte DirectoryFilesForEver\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\Repte DirectoryFilesForEver\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\Repte DirectoryFilesForEver\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.exe
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\Repte DirectoryFilesForEver\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.pdb
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\DirectoryFilesForEver.exe.config
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\DirectoryFilesForEver.exe
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\DirectoryFilesForEver.pdb
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.SuggestedBindingRedirects.cache
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.Properties.Resources.resources
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.exe
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.pdb
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.CopyComplete
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.DirectoryFilesForever.resources
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.Crear.resources
+C:\Users\cep.CEPNET0\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.ModifNom.resources
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\DirectoryFilesForEver.exe.config
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\DirectoryFilesForEver.exe
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\DirectoryFilesForEver.pdb
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.SuggestedBindingRedirects.cache
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.Crear.resources
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.DirectoryFilesForever.resources
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.ModifNom.resources
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.Properties.Resources.resources
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.csproj.CopyComplete
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.exe
+C:\Users\cep.CEPNET0.000\Documents\GitHub\Cole\Dades\REPTES\DirectoryFilesForEver\obj\Debug\DirectoryFilesForEver.pdb
